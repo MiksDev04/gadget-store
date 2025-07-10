@@ -1,1 +1,23 @@
 @import "tailwindcss";
+
+*{
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+
+.btn {
+  padding: .5rem 1rem;
+  border-radius: 5px;
+
+  &:active{
+    outline: 1px solid gray;
+  }
+}
+
+.btn-sm{
+  transform: scale(.8);
+}
+
+.btn-lg{
+  transform: scale(1.2);
+}
