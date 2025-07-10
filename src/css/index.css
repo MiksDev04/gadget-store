@@ -4,6 +4,9 @@
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
+body{
+  font-size: 14px;
+}
 
 .btn {
   padding: .5rem 1rem;

@@ -1,0 +1,23 @@
+
+[
+    {
+        "name": "Apple M4 Air",
+        "price": 65000,
+        "image" : "/src/assets/images/m4-pro.jpg"
+    },
+    {
+        "name": "Apple M4 Air",
+        "price": 65000,
+        "image" : "/src/assets/images/m4-pro.jpg"
+    },
+    {
+        "name": "Apple M4 Air",
+        "price": 65000,
+        "image" : "/src/assets/images/m4-pro.jpg"
+    },
+    {
+        "name": "Apple M4 Air",
+        "price": 65000,
+        "image" : "/src/assets/images/m4-pro.jpg"
+    }
+]
